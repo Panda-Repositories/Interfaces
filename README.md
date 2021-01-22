@@ -1,4 +1,7 @@
 # Interfaces
+
+**PipeInterface**
+
 ```csharp
 PipeInterface Pipe { get; } = new()
   {
